@@ -38,5 +38,5 @@ O **Plugin Rota X** foi criado para garantir a integridade dos dados em uma apli
 - Adicionar suporte ao evento de Update
 - Criar testes unitários com mocks do Dataverse
 
-##👩‍💻 Desenvolvedora
+## 👩‍💻 Desenvolvedora
 Projeto criado por Francine Maciel
